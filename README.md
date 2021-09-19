@@ -1,2 +1,3 @@
 # C22-double-pendulum
-reference code
+
+https://kishan-ramesh.github.io/NEWTONSCRADLE/
